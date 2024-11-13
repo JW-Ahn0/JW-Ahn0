@@ -37,5 +37,6 @@
 
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JW-Ahn0&layout=compact)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JW-Ahn0&show_icons=true)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vota12)](https://solved.ac/profile/vota12)
