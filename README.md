@@ -3,8 +3,6 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
 
 
-### 🙇 안녕하세요, Frontend Programmer로 성장해나가고 있는 안준우 입니다!
-
 <!-- Body -->
 
 ### 🦾 Skills
