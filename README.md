@@ -11,3 +11,4 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
 
+![snake gif](https://raw.githubusercontent.com/JW-Ahn0/JW-Ahn0/output/github-contribution-grid-snake.gif)
